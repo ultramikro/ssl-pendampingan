@@ -11,6 +11,12 @@
       "fingerprint" : "VCSfqj7aJw5n3uAQDZdvc2Acr2WDRBvvYAFbwijXGKk=",
       "expires" : 1692586264,
       "signature" : "MEUCIG4MhKHg7aG9ZhS9l4cO8qhIgKWXGRZSrepapo3g4HwIAiEAuQ6JD6A4WqVBHe6Th+n/UMcIM6Tx6+YEnBjahce9WWs="
+    },
+    {
+      "name" : "api-pendampingan.umi.id",
+      "fingerprint" : "5dkhimKmLWkGHBvv2CnjgSwt7iF0mxqgIcIBppX5mMc=",
+      "expires" : 1700354556,
+      "signature" : "MEQCIALbaKqfr4TIuDfIVU3I+gxX76jvtYZVgPhJ9yDPRxkzAiAqSPPnOaFems7pEBGq28zUgdkt/jJnoYiFusEo+B1nDA=="
     }
   ]
 }
