@@ -1,22 +1,10 @@
 {
   "fingerprints": [
     {
-      "name" : "api--pip.nbs.dev",
-      "fingerprint" : "lQZGRlzb0VvvQoQpdEEwi/PTWpzvQPPIyZK9r/r955A=",
-      "expires" : 1692811837,
-      "signature" : "MEUCIQDHPPFUkKGV5bF1taVRJQzWGHczukhSlZlB3V8y06p+DgIgK15fN9ItMRj9DI033e+ewdhA2WUwpM/a/u0+Gpf72pE="
-    },
-     {
       "name" : "api-pendampingan.umi.id",
-      "fingerprint" : "VCSfqj7aJw5n3uAQDZdvc2Acr2WDRBvvYAFbwijXGKk=",
-      "expires" : 1692586264,
-      "signature" : "MEUCIG4MhKHg7aG9ZhS9l4cO8qhIgKWXGRZSrepapo3g4HwIAiEAuQ6JD6A4WqVBHe6Th+n/UMcIM6Tx6+YEnBjahce9WWs="
-    },
-    {
-      "name" : "api-pendampingan.umi.id",
-      "fingerprint" : "5dkhimKmLWkGHBvv2CnjgSwt7iF0mxqgIcIBppX5mMc=",
-      "expires" : 1700354556,
-      "signature" : "MEQCIALbaKqfr4TIuDfIVU3I+gxX76jvtYZVgPhJ9yDPRxkzAiAqSPPnOaFems7pEBGq28zUgdkt/jJnoYiFusEo+B1nDA=="
+      "fingerprint" : "lYKdghbftiaQ3BDlhp4KsGsDJsShDRBY9ET6bF6h2u0=",
+      "expires" : 1729647615,
+      "signature" : "MEQCIFPwoYN3In0lUj/znqeDjOkBwXj7OZzzLU7Ro+O2NolWAiBA2zIYvGaq8o94gr5afhHZ2hycaOdfahj1xU8vNCr6Ag=="
     }
   ]
 }
